@@ -2,5 +2,15 @@
 
 > Part of [Resources](resources.md)
 
+Humorous material can help us illustrate some plain language principles.
 
-Humorous material can help us illustrate some plain language principles. Some of the humor on this page was not intended but resulted from blunders people made racing through their days, and the others are just for fun. Enjoy!
+## Contents
+
+| Item |
+|------|
+| [Funny Headlines](funny-headlines.md) |
+| [High-Tech Humor](high-tech-humor.md) |
+| [How to Write Good](how-to-write-good.md) |
+| [Nine Easy Steps to Longer Sentences](nine-easy-steps-to-longer-sentences.md) |
+| [Reasons Why the English Language Is Hard to Learn](reasons-why-the-english-language-is-hard-to-learn.md) |
+| [Technical Terms in Plain English](technical-terms-in-plain-english.md) |

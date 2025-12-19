@@ -1,10 +1,16 @@
-# Style guides
+# Style Guides
 
 > Part of [Resources](resources.md)
 
-Style guides are not a plain language issue, except that your style guide should include directions to write in plain language. Plain language works with whatever style you follow. 
+Style guides are not a plain language issue, except that your style guide should include directions to write in plain language.
 
-Here are some style guides. If you have an update, please let us know at info@plainlanguage.gov. 
+## Contents
+
+| Guide |
+|-------|
+| [SEC Plain English Handbook](security-and-exchange-commission-a-plain-english-handbook.md) |
+
+--- 
 
 
 ## Federal government

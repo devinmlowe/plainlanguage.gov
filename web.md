@@ -1,9 +1,19 @@
-# Follow web standards
+# Follow Web Standards
 
 > Part of [Guidelines](guidelines.md)
 
-
 To effectively communicate online, you need to follow web standards, design for reading, and repurpose print materials for the web.
+
+## Contents
+
+| Topic |
+|-------|
+| [Avoid FAQs](avoid-faqs.md) |
+| [Write Effective Links](write-effective-links.md) |
+| [Repurpose Print Material](repurpose-print-material.md) |
+| [Avoid PDF Overload](avoid-pdf-overload.md) |
+
+---
 
 ## Expect users to skim and scan
 

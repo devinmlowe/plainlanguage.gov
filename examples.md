@@ -1,11 +1,14 @@
 # Examples
 
-
 Plain language has been around in the government for over 40 years. Here are some examples, both historical and current.
 
-* [Before and after](before-and-after.md)
-* [Award winners](awards.md)
-* [Reports and brochures](brochures.md)
-* [Handbooks and manuals](handbooks.md)
-* [Letters and notices](notices.md)
-* [Regulations](regulations.md)
+## Contents
+
+| Category | Description |
+|----------|-------------|
+| [Before and After](before-and-after.md) | Side-by-side comparisons |
+| [Awards](awards.md) | Award-winning plain language |
+| [Brochures](brochures.md) | Reports and brochures |
+| [Handbooks](handbooks.md) | Handbooks and manuals |
+| [Notices](notices.md) | Letters and notices |
+| [Regulations](regulations.md) | Plain language regulations |

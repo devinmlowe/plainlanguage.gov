@@ -1,9 +1,20 @@
-# Be concise
+# Be Concise
 
 > Part of [Guidelines](guidelines.md)
 
+Wordy, dense construction is one of the biggest problems in government writing.
 
-Wordy, dense construction is one of the biggest problems in government writing. Nothing is more confusing to the user than long, complex sentences containing multiple phrases and clauses. Unnecessary words come in all shapes and sizes, and it's difficult to put them into distinct categories. To address the problem, become more critical of your own writing, and consider whether you need every word. Challenge every word—do you need it?
+## Contents
+
+| Topic |
+|-------|
+| [Write Short Sentences](write-short-sentences.md) |
+| [Write Short Sections](write-short-sections.md) |
+| [Write Short Paragraphs](write-short-paragraphs.md) |
+| [Keep Subject, Verb, and Object Close Together](keep-the-subject-verb-and-object-close-together.md) |
+| [Use Positive Language](use-positive-language.md) |
+
+--- Nothing is more confusing to the user than long, complex sentences containing multiple phrases and clauses. Unnecessary words come in all shapes and sizes, and it's difficult to put them into distinct categories. To address the problem, become more critical of your own writing, and consider whether you need every word. Challenge every word—do you need it?
 
 Pronouns, active voice, and base verbs help eliminate excess words. So does eliminating unnecessary modifiers—in "HUD and FAA issued a joint report" you don't need "joint." In "this information is really critical" you don't need "really."
 

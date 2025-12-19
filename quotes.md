@@ -2,5 +2,16 @@
 
 > Part of [Resources](resources.md)
 
+Thoughts and advice from people who believe in the importance of clear communication.
 
-Are you trying to persuade your colleagues or your boss that it's a good idea to use plain language? Try sharing the thoughts and advice of famous (and not-so-famous) people who believe how important it is to communicate clearly by using plain language.
+## Contents
+
+| Category |
+|----------|
+| [Historical Quotes](historical-quotes.md) |
+| [Contemporary Quotes](contemporary-quotes.md) |
+| [Government Quotes](government-quotes.md) |
+| [Legal Quotes](legal-quotes.md) |
+| [Science and Industry Quotes](science-and-industry-quotes.md) |
+| [Federal Employees Speak](federal-employees-speak.md) |
+| [Testimonials](testimonials.md) |

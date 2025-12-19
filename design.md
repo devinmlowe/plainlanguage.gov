@@ -1,9 +1,19 @@
-# Design for reading
+# Design for Reading
 
 > Part of [Guidelines](guidelines.md)
 
+We want our writing to help people get information, comply with requirements, and apply for benefits with the least possible burden.
 
-We want our writing to help people get information, comply with requirements, and apply for benefits with the least possible burden. Dense, cluttered writing deters people from taking the time to read.
+## Contents
+
+| Topic |
+|-------|
+| [Use Tables to Make Complex Material Easier to Understand](use-tables-to-make-complex-material-easier-to-understand.md) |
+| [Consider Using Visuals](consider-using-visuals.md) |
+| [Highlight Important Concepts](highlight-important-concepts.md) |
+| [Minimize Cross-References](minimize-cross-references.md) |
+
+--- Dense, cluttered writing deters people from taking the time to read.
 
 We've heard from many readers that when they get dense, uninviting letters or notices from the government, they often put it in the "read later" pile, even though they know they should read it right away.
 

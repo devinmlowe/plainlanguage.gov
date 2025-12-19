@@ -1,9 +1,18 @@
-# Test your assumptions
+# Test Your Assumptions
 
 > Part of [Guidelines](guidelines.md)
 
+Testing your content should be an integral part of your writing and planning process—not just something you just do after the fact.
 
-Testing your content should be an integral part of your writing and planning process—not just something you just do after the fact. It's especially important to test our assumptions in government, because we're often writing for thousands or even millions of people.
+## Contents
+
+| Topic |
+|-------|
+| [Paraphrase Testing](paraphrase-testing.md) |
+| [Usability Testing](usability-testing.md) |
+| [Controlled Comparative Studies](controlled-comparative-studies.md) |
+
+--- It's especially important to test our assumptions in government, because we're often writing for thousands or even millions of people.
 
 Testing your writing to make sure it's clear to users can save you time in answering questions later.
 

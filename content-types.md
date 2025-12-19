@@ -1,6 +1,16 @@
-# Content types
+# Content Types
 
 > Part of [Resources](resources.md)
 
+Industry-specific plain language guidance.
 
-The use of plain language is spreading in many areas of American culture. Governments at all levels, especially the federal government, are using plain language more extensively. Other areas where we see a push toward plain language include the sciences and the legal profession. But as these pages discuss, we still have a long way to go to make all writing in these areas easy to read and use.
+## Contents
+
+| Industry |
+|----------|
+| [Business](business.md) |
+| [Finance](finance.md) |
+| [Healthcare](healthcare.md) |
+| [Legal Profession](legal-profession.md) |
+| [Sciences](sciences.md) |
+| [Writing Effective Letters](writing-effective-letters.md) |
